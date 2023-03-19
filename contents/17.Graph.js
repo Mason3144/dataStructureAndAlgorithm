@@ -119,6 +119,7 @@ graph.addVertex("Brisbane");
 
 graph.addEdge("Seoul", "Tokyo");
 graph.addEdge("Seoul", "Vancouver");
+graph.addEdge("Brisbane", "Vancouver");
 
 graph.removeVertex("Seoul");
 
